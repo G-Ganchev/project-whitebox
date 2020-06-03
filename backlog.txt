@@ -1,0 +1,36 @@
+Models - Supervised
+Naive Bayes
+K-Nearest Neighbours
+MulticlassLogistic Regression
+LDA - Linear Discirminant Analysis
+QDA - Quadratic Discriminant Analysis
+SVM - linear, rbf
+Decision Tree Classifiaction
+Decision Tree Regression
+Random Forest
+GBM
+XGB
+
+Models - Unsupervised
+K-Means
+DBScan
+
+Others
+PCA
+SVD
+NMF
+SMOTE
+
+
+NNs:
+Perceptron
+Convolutional NNs
+Recurrent NNs
+Autoencoders
+
+
+
+
+
+
+
